@@ -1,2 +1,6 @@
 # pdf-test-page
 a page for pdf tests
+
+[trivial document](./pdfs/minimal-document.pdf)
+
+some pdfs from [py-pdf/sample-files](https://github.com/py-pdf/sample-files)
