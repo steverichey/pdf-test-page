@@ -2,5 +2,6 @@
 a page for pdf tests
 
 [trivial document](./pdfs/minimal-document.pdf)
+[trivial document without pdf suffix](./pdfs/minimal-document-pdf)
 
 some pdfs from [py-pdf/sample-files](https://github.com/py-pdf/sample-files)
